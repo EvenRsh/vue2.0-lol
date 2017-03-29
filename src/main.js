@@ -9,6 +9,7 @@ import 'muse-ui/dist/muse-ui.css'
 import Icon from 'vue-svg-icon/Icon.vue'
 import VueLazyload from 'vue-lazyload'
 import infiniteScroll from 'vue-infinite-scroll'
+
 Vue.component('icon', Icon);  
 Icon.inject('lol'); // the name of your svg pic
 
