@@ -1,11 +1,10 @@
-### Vue2.0版英雄联盟助手
+### Vue2.0英雄联盟助手
 
 vuejs League of Legends  project
 
-[项目源码](https://github.com/arronf2e/Vue2.0LOL)  
+[项目源码](https://github.com/EvenRsh/vue2.0-lol)  
 [在线地址](http://omeme.me/demos/lol/)
 <p><img src="http://o9xap42x4.bkt.clouddn.com/lol.png" width="200" height="200"/></p>
-<p>微信扫一扫，查看在线DEMO</p>
 
 
 #### 1. 技术栈
@@ -69,7 +68,7 @@ vuejs League of Legends  project
 
 #### 6. 结语
 
-在github上看了那么多的vue项目，自己的看过其中的部分，当然肯定也仿过，可是一直没坚持下去。本项目是自己第一个完整的开源小项目，然后会有很多的不足，也是自己第一次使用vuex，希望大家可以多提意见，我也会一直更新这个项目，喜欢的朋友可以star一下。最后感谢[带玩游戏平台](http://www.games-cube.com/)提供的API！
+在github上看了那么多的vue项目，自己的看过其中的部分，当然肯定也仿过，可是一直没坚持下去。本项目是自己第一个完整的开源小项目，然后会有很多的不足，也是自己第一次使用vuex，希望大家可以多提意见，我也会一直更新这个项目。最后感谢[带玩游戏平台](http://www.games-cube.com/)提供的API！
 
 
 	
